@@ -107,7 +107,7 @@ public class MainSceneController
 				return "♈️";
 			case 'w':
 			case 'W':
-				return "♈️";
+				return "🔱";
 			case 'x':
 			case 'X':
 				return "❌";
